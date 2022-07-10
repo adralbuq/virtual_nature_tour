@@ -1,4 +1,4 @@
-# virtual_nature_app_tour
+# Virtual Nature Tour
 
 Explore um destino de natureza realizando um tour virtual.
 
