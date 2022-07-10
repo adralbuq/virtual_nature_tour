@@ -1,10 +1,10 @@
-# Virtual Nature Tour
+## Virtual Nature Tour
 
-Explore um destino de natureza realizando um tour virtual.
+Explore um destino de natureza realizando um tour virtual pelo aplicativo Virtual Nature Tour.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este é um projeto piloto visando impulsionar o turismo de natureza em um cenário pós-pandêmico. Algumas funcionalidades do aplicativo sofrerão alterações ao longo do tempo para proporcionar uma melhor interação com os usuários. Embarque nesta viagem e explore um destino natural!
 
 A few resources to get you started if this is your first Flutter project:
 
