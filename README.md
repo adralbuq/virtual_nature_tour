@@ -10,13 +10,7 @@ Este é um projeto piloto visando impulsionar o turismo de natureza em um cenár
 <img src="https://user-images.githubusercontent.com/102529232/178161447-473c61c9-532d-497b-b072-73eb3c211812.gif" width="250" height="430"/>
 <img src="https://user-images.githubusercontent.com/102529232/178164591-5415921d-d54b-427c-9a7f-56cecaa89a4d.gif" width="250" height="430"/>
 <img src="https://user-images.githubusercontent.com/102529232/178164602-858b5613-5c64-4771-ae4c-8c3d75ddefad.gif" width="250" height="430"/>
-</div>
-
-<div class="page">
 <img src="https://user-images.githubusercontent.com/102529232/178164610-8841e81e-709d-464c-8e1f-305f6014c00c.gif" width="250" height="430"/>
-</div>
-
-<div class="page">
 <img src="https://user-images.githubusercontent.com/102529232/178164621-6fe556f7-b996-4b66-ba77-bf291018c17c.gif" width="250" height="430"/>
 </div>
 
