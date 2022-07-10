@@ -10,7 +10,7 @@ Este é um projeto piloto visando impulsionar o turismo de natureza em um cenár
 <img width="300" src="/assets/images/logo.png">
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JVTJmLdFyw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/JVTJmLdFyw8
 
 A few resources to get you started if this is your first Flutter project:
 
