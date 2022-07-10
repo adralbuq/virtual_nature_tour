@@ -1,6 +1,6 @@
 ## Virtual Nature Tour
 <p align="center">
-<img width="200" height="250" src="/assets/images/logo.png">
+<img width="200" height="200" src="/assets/images/logo.png">
 </p>
 Explore um destino de natureza realizando um tour virtual pelo aplicativo Virtual Nature Tour.
 
