@@ -1,6 +1,6 @@
 # virtual_nature_app_tour
 
-A new Flutter project.
+Explore um destino de natureza realizando um tour virtual.
 
 ## Getting Started
 
