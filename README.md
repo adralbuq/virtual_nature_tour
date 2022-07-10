@@ -42,6 +42,24 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
+<!DOCTYPE html>
+<div class="box">
+    <img src="https://user-images.githubusercontent.com/102529232/178164634-ca8d76e1-e10e-4f59-9a27-792c2d4bab43.gif"/>
+    <span> Teste 1 </span>
+</div>
+<div class="box">
+    <img src="https://user-images.githubusercontent.com/102529232/178164630-8e709805-0d54-42ef-8cb0-41aa2f72edba.gif"/>
+    <span> Teste 2 </span>
+</div>
+
+<style>
+div.box {
+	width: 200px;
+	display: inline-block;
+}
+</style>
+
+
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
