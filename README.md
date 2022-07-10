@@ -1,14 +1,12 @@
 ## Virtual Nature Tour
-
+<p align="center">
+<img width="250" height="250" src="/assets/images/logo.png">
+</p>
 Explore um destino de natureza realizando um tour virtual pelo aplicativo Virtual Nature Tour.
 
 ## Getting Started
 
 Este é um projeto piloto visando impulsionar o turismo de natureza em um cenário pós-pandêmico. Algumas funcionalidades do aplicativo sofrerão alterações ao longo do tempo para proporcionar uma melhor interação com os usuários. Embarque nesta viagem e explore um destino natural!
-
-<p align="center">
-<img width="250" height="250" src="/assets/images/logo.png">
-</p>
 
 <div class="page">
 <img src="https://user-images.githubusercontent.com/102529232/178161265-3ce8bf9e-f8e6-49af-818a-15429cba9201.gif" width="250" height="400"/>
