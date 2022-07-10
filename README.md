@@ -1,6 +1,6 @@
 ## Virtual Nature Tour
 
-Explore um destino de natureza realizando um tour virtual pelo aplicativo ## Virtual Nature Tour.
+Explore um destino de natureza realizando um tour virtual pelo aplicativo Virtual Nature Tour.
 
 ## Getting Started
 
