@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87349799268",
+    "project_id": "virtual-nature-tour-b9a82",
+    "storage_bucket": "virtual-nature-tour-b9a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87349799268:android:4ff94eca25f78a97d3f271",
+        "android_client_info": {
+          "package_name": "com.example.virtual_nature_app_tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87349799268-4rftgicnshcrebqistc24mshp6e9rmk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhgSSZG05A7UCSQ1n1Twl-b1bpY9Ufl2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87349799268-4rftgicnshcrebqistc24mshp6e9rmk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
