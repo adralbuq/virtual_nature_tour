@@ -7,7 +7,7 @@ Explore um destino de natureza realizando um tour virtual pelo aplicativo Virtua
 
 ## Sobre o projeto
 
-Este é um projeto piloto visando impulsionar o turismo de natureza em um cenário pós-pandêmico. Algumas funcionalidades do aplicativo sofrerão alterações ao longo do tempo para proporcionar uma melhor interação com os usuários. Embarque nesta viagem e explore um destino natural!
+Este é um protótipo para o aplicativo do projeto piloto que visa impulsionar o turismo de natureza em um cenário pós-pandêmico. Algumas funcionalidades do App sofrerão alterações ao longo do tempo para proporcionar uma melhor interação com os usuários. Embarque nesta viagem e explore um destino natural!
 
 <div style="display: inline-block">
 <img src="https://user-images.githubusercontent.com/102529232/178161265-3ce8bf9e-f8e6-49af-818a-15429cba9201.gif" width="220" height="350"/> 
