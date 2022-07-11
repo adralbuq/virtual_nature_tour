@@ -3,7 +3,7 @@
    <application
         android:label="virtual_nature_app_tour"
         android:name="${applicationName}"
-        android:icon="@mipmap/Virtual Nature Tour">
+        android:icon="@mipmap/virtual nature tour">
         <activity
             android:name=".MainActivity"
             android:exported="true"
