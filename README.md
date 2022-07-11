@@ -19,6 +19,12 @@ Este é um projeto piloto visando impulsionar o turismo de natureza em um cenár
 
 ## Links úteis
 
+Árvore de Navegação do Aplicativo: https://github.com/adralbuq/virtual_nature_tour/blob/main/README.md
+
+Árvore de Widgets:
+
+Link para Play Store:
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
