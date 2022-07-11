@@ -1,4 +1,4 @@
-## Virtual Nature Tour (Árvore de Widgets):
+## Aplicativo Virtual Nature Tour (Árvore de Widgets):
 
 ## Tela 1: Splash
 
