@@ -23,9 +23,7 @@ Este é um projeto piloto visando impulsionar o turismo de natureza em um cenár
 
 ## Links úteis
 
-Árvore de Navegação do Aplicativo: https://github.com/adralbuq/virtual_nature_tour/blob/main/README.md
-
-Árvore de Widgets:
+Árvore de Widgets: https://github.com/adralbuq/virtual_nature_tour/blob/main/README.md
 
 Link para Play Store:
 
