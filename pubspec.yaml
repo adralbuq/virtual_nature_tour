@@ -85,9 +85,9 @@ flutter:
   assets:
     - assets/images/logo.png
     - assets/images/nature1.gif
-    - assets/images/nature2.gif
-    - assets/images/nature4.gif
-    - assets/images/nature5.gif
+    - assets/images/nature2.png
+    - assets/images/nature4.png
+    - assets/images/nature5.png
     - assets/images/nature6.gif
     - assets/images/menu.svg
     - assets/images/search.svg

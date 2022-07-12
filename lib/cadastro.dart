@@ -56,7 +56,7 @@ class _CadastroState extends State<Cadastro> {
         body: Stack(children: [
       Positioned.fill(
           child: Image.asset(
-        "assets/images/nature5.gif",
+        "assets/images/nature5.png",
         fit: BoxFit.cover,
         color: Colors.black38,
         colorBlendMode: BlendMode.difference,

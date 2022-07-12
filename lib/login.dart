@@ -55,7 +55,7 @@ class _LoginState extends State<Login> {
         body: Stack(children: [
       Positioned.fill(
           child: Image.asset(
-        "assets/images/nature2.gif",
+        "assets/images/nature2.png",
         fit: BoxFit.cover,
         color: Colors.black38,
         colorBlendMode: BlendMode.difference,

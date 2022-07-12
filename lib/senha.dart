@@ -18,7 +18,7 @@ class _SenhaState extends State<Senha> {
         body: Stack(children: [
       Positioned.fill(
           child: Image.asset(
-        "assets/images/nature4.gif",
+        "assets/images/nature4.png",
         fit: BoxFit.cover,
         color: Colors.black38,
         colorBlendMode: BlendMode.difference,
