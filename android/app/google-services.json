@@ -29,6 +29,49 @@
             {
               "client_id": "87349799268-4rftgicnshcrebqistc24mshp6e9rmk6.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "87349799268-oba0pht9sqce4eus8ur0ksn9gnoia6pb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.virtualNatureAppTour"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87349799268:android:4e14c62788b4bcf9d3f271",
+        "android_client_info": {
+          "package_name": "com.vnat.virtual_nature_app_tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87349799268-4rftgicnshcrebqistc24mshp6e9rmk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhgSSZG05A7UCSQ1n1Twl-b1bpY9Ufl2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87349799268-4rftgicnshcrebqistc24mshp6e9rmk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87349799268-oba0pht9sqce4eus8ur0ksn9gnoia6pb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.virtualNatureAppTour"
+              }
             }
           ]
         }
