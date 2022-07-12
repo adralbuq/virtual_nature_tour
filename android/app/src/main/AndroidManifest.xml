@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.virtual_nature_app_tour">
+    package="com.vnat.virtual_nature_app_tour">
    <application
-        android:label="virtual_nature_app_tour"
+        android:label="Virtual Nature Tour"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

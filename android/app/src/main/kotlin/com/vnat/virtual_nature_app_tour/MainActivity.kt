@@ -1,4 +1,4 @@
-package com.example.virtual_nature_app_tour
+package com.vnat.virtual_nature_app_tour
 
 import io.flutter.embedding.android.FlutterActivity
 
