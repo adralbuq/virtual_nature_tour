@@ -14,7 +14,7 @@ class _DestinoState extends State<Destino> {
         body: Stack(children: [
       Positioned.fill(
           child: Image.asset(
-        "assets/images/nature1.gif",
+        "assets/images/nature1.png",
         fit: BoxFit.cover,
         color: Colors.black38,
         colorBlendMode: BlendMode.difference,
