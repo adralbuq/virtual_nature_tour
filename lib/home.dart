@@ -14,7 +14,7 @@ class _HomeState extends State<Home> {
       children: [
         Positioned.fill(
             child: Image.asset(
-          "assets/images/nature6.gif",
+          "assets/images/nature6.png",
           fit: BoxFit.cover,
           color: Colors.black38,
           colorBlendMode: BlendMode.difference,
