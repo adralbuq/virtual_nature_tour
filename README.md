@@ -46,4 +46,8 @@
 
 ##
 
-Link para o repositório do aplicativo: https://github.com/adralbuq/virtual_nature_tour/tree/master
+Link para o repositório do aplicativo (com árvore de navegação): https://github.com/adralbuq/virtual_nature_tour/tree/master
+
+Link de Apresentação do App: https://youtu.be/ooDCDBsPMHU
+
+Link para Play Store:
