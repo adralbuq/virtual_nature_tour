@@ -50,4 +50,4 @@ Link para o repositório do aplicativo (com árvore de navegação): https://git
 
 Link de Apresentação do App: https://youtu.be/ooDCDBsPMHU
 
-Link para Play Store:
+Link para Play Store: https://play.google.com/store/apps/details?id=com.vnat.virtual_nature_app_tour
